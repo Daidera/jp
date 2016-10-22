@@ -8,7 +8,7 @@
 1. Andrearczyk, Seweryn
 1. Bannach, Robert
 1. Bieńkowski, Adrian
-1. Chmielewski, Bartosz
+1. [Chmielewski, Bartosz](https://github.com/Daidera)
 1. Chmielewski, Karol https://github.com/kchmielewski
 1. Chodun, Michał
 1. Cygert, Sławomir
